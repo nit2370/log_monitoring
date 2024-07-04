@@ -1,0 +1,105 @@
+INFO|04-07-2024 00:00:01|Application Started
+INFO|04-07-2024 00:10:15|Service A Initialized
+INFO|04-07-2024 00:20:45|Service B Initialized
+ERROR|04-07-2024 00:30:50|Failed to connect to database
+INFO|04-07-2024 00:40:10|Retrying database connection
+INFO|04-07-2024 00:50:25|Database connection established
+INFO|04-07-2024 01:00:30|Scheduled task executed
+INFO|04-07-2024 01:15:05|Service C Initialized
+ERROR|04-07-2024 01:25:15|Service C failed to start
+INFO|04-07-2024 01:30:45|Service C Restarted
+INFO|04-07-2024 01:50:00|Memory usage normal
+INFO|04-07-2024 02:05:15|Service A checked
+INFO|04-07-2024 02:15:20|Scheduled task executed
+ERROR|04-07-2024 02:30:30|Database connection lost
+INFO|04-07-2024 02:45:00|Reconnecting to database
+INFO|04-07-2024 03:00:15|Database connection reestablished
+INFO|04-07-2024 03:10:25|Service B checked
+INFO|04-07-2024 03:25:30|Scheduled task executed
+INFO|04-07-2024 03:40:45|Service A response time normal
+ERROR|04-07-2024 03:55:50|Service D crashed
+INFO|04-07-2024 04:05:15|Service D restarted
+INFO|04-07-2024 04:20:25|Memory usage normal
+INFO|04-07-2024 04:35:30|Scheduled task executed
+INFO|04-07-2024 04:50:45|Service C checked
+ERROR|04-07-2024 05:05:50|Service C memory leak detected
+INFO|04-07-2024 05:15:15|Service C memory leak resolved
+INFO|04-07-2024 05:30:25|Service A response time normal
+INFO|04-07-2024 05:45:30|Scheduled task executed
+INFO|04-07-2024 06:00:45|Service B checked
+ERROR|04-07-2024 06:15:50|Service B timeout
+INFO|04-07-2024 06:25:15|Service B timeout resolved
+INFO|04-07-2024 06:40:25|Memory usage normal
+INFO|04-07-2024 06:55:30|Scheduled task executed
+INFO|04-07-2024 07:10:45|Service A checked
+ERROR|04-07-2024 07:25:50|Service A response time slow
+INFO|04-07-2024 07:35:15|Service A response time normal
+INFO|04-07-2024 07:50:25|Memory usage normal
+INFO|04-07-2024 08:05:30|Scheduled task executed
+INFO|04-07-2024 08:20:45|Service B checked
+ERROR|04-07-2024 08:35:50|Service B response time slow
+INFO|04-07-2024 08:45:15|Service B response time normal
+INFO|04-07-2024 09:00:25|Memory usage normal
+INFO|04-07-2024 09:15:30|Scheduled task executed
+INFO|04-07-2024 09:30:45|Service A checked
+ERROR|04-07-2024 09:45:50|Service A crashed
+INFO|04-07-2024 09:55:15|Service A restarted
+INFO|04-07-2024 10:10:25|Memory usage normal
+INFO|04-07-2024 10:25:30|Scheduled task executed
+INFO|04-07-2024 10:40:45|Service B checked
+ERROR|04-07-2024 10:55:50|Service B response time slow
+INFO|04-07-2024 11:05:15|Service B response time normal
+INFO|04-07-2024 11:20:25|Memory usage normal
+INFO|04-07-2024 11:35:30|Scheduled task executed
+INFO|04-07-2024 11:50:45|Service A checked
+ERROR|04-07-2024 12:05:50|Service A response time slow
+INFO|04-07-2024 12:15:15|Service A response time normal
+INFO|04-07-2024 12:30:25|Memory usage normal
+INFO|04-07-2024 12:45:30|Scheduled task executed
+INFO|04-07-2024 13:00:45|Service B checked
+ERROR|04-07-2024 13:15:50|Service B crashed
+INFO|04-07-2024 13:25:15|Service B restarted
+INFO|04-07-2024 13:40:25|Memory usage normal
+INFO|04-07-2024 13:55:30|Scheduled task executed
+INFO|04-07-2024 14:10:45|Service A checked
+ERROR|04-07-2024 14:25:50|Service A memory leak detected
+INFO|04-07-2024 14:35:15|Service A memory leak resolved
+INFO|04-07-2024 14:50:25|Memory usage normal
+INFO|04-07-2024 15:05:30|Scheduled task executed
+INFO|04-07-2024 15:20:45|Service B checked
+ERROR|04-07-2024 15:35:50|Service B timeout
+INFO|04-07-2024 15:45:15|Service B timeout resolved
+INFO|04-07-2024 16:00:25|Memory usage normal
+INFO|04-07-2024 16:15:30|Scheduled task executed
+INFO|04-07-2024 16:30:45|Service A checked
+ERROR|04-07-2024 16:45:50|Service A response time slow
+INFO|04-07-2024 16:55:15|Service A response time normal
+INFO|04-07-2024 17:10:25|Memory usage normal
+INFO|04-07-2024 17:25:30|Scheduled task executed
+INFO|04-07-2024 17:40:45|Service B checked
+ERROR|04-07-2024 17:55:50|Service B crashed
+INFO|04-07-2024 18:05:15|Service B restarted
+INFO|04-07-2024 18:20:25|Memory usage normal
+INFO|04-07-2024 18:35:30|Scheduled task executed
+INFO|04-07-2024 18:50:45|Service A checked
+ERROR|04-07-2024 19:05:50|Service A timeout
+INFO|04-07-2024 19:15:15|Service A timeout resolved
+INFO|04-07-2024 19:30:25|Memory usage normal
+INFO|04-07-2024 19:45:30|Scheduled task executed
+INFO|04-07-2024 20:00:45|Service B checked
+ERROR|04-07-2024 20:15:50|Service B response time slow
+INFO|04-07-2024 20:25:15|Service B response time normal
+INFO|04-07-2024 20:40:25|Memory usage normal
+INFO|04-07-2024 20:55:30|Scheduled task executed
+INFO|04-07-2024 21:10:45|Service A checked
+ERROR|04-07-2024 21:25:50|Service A crashed
+INFO|04-07-2024 21:35:15|Service A restarted
+INFO|04-07-2024 21:50:25|Memory usage normal
+INFO|04-07-2024 22:05:30|Scheduled task executed
+INFO|04-07-2024 22:20:45|Service B checked
+ERROR|04-07-2024 22:35:50|Service B memory leak detected
+INFO|04-07-2024 22:45:15|Service B memory leak resolved
+INFO|04-07-2024 23:00:25|Memory usage normal
+INFO|04-07-2024 23:15:30|Scheduled task executed
+INFO|04-07-2024 23:30:45|Service A checked
+ERROR|04-07-2024 23:45:50|Service A response time slow
